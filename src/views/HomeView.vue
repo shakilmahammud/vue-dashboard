@@ -15,9 +15,10 @@
         <v-col cols="12" sm="12">
           <Payment/>
         </v-col>
+        
       </v-row>
     </v-col>
-    <v-col cols="12">
+    <v-col cols="12" sm="4">
       <Card/>
     </v-col>
   </v-row>
