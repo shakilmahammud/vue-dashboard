@@ -1,4 +1,4 @@
-# banking-dashboard
+# patient-dashboard
 
 ## Project setup
 ```
